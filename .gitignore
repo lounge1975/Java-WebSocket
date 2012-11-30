@@ -8,3 +8,5 @@ target
 bin
 
 /doc
+jar/*
+.DS_Store
